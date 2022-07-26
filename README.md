@@ -2,6 +2,7 @@
 
 This repro shows the analysis of bibtex files scraped from Web of Science.
 The method is adaped from McCain 1990 and 1998 but applied to the co-occurence of keywords instead of co-citation.
+This implementation was coded in the context of a research project. The uploaded version is using a completely different set of keywords without any connection to the original research purpose. The used keywords are selected european countries and their capital cities. This choice was made to show case the method. The method can groups East-european countries vs. South.european countries.
 
 
 McCain, Katherine W. 1990: Mapping Authors in Intellectual Space: A Technical Overview
